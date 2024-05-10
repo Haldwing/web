@@ -29,6 +29,12 @@ html{background-color: rgb(6, 6, 6);}
     align-items: center;
 
 }
+.extra{
+    margin-left: 35px;
+}
+.livetitle{
+    margin-left: 25px;
+}
 #gigs{
     text-align: 
     center; background-color: rgb(201, 60, 60);  
@@ -93,10 +99,4 @@ a:active { text-decoration: none; }
     position: relative;
     left: 300px;
     top: 380px;
-}
-footer{
-    position: absolute;
-}
-footer > p{
-    color: red;
 }
