@@ -1,5 +1,5 @@
 html{background-color: rgb(6, 6, 6);}
-.intro-page{display: flex; height: 100vh; justify-content: center; }
+.intro-page{display: flex; height: 100vh;  }
 .pic-background{background-image: url(./assets/images/studiobackgrounde1.jpeg); width: 1400px; height: 900px}
 .other-pic-background{background-image: url(./assets/images/studiobackgrounde.png); width: 1400px; height: 900px;}
 .heading-cont{position: absolute; top: 50px; left: 42.5%; right: 40%;}
