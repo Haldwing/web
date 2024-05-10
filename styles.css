@@ -73,6 +73,10 @@ a:active { text-decoration: none; }
     width: 100%;
     height: 195vh;
 }
+.liveiframe{
+    height: 650;
+    width: 1156;
+}
 .livelevitate{
     position: relative;
     top: 20px;
